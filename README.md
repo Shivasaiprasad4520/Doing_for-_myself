@@ -9,3 +9,4 @@
      brain_stroming DevOps Tools Reviewing Tools
      Learning the German Language 
      Reading 5pages 
+     Exercise for 45 min
