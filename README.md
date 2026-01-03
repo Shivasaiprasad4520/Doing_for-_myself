@@ -7,3 +7,4 @@
 #### leveling up and making network on cloud
 #### 1st Weeks plan of action
      brain_stroming DevOps Tools Reviewing Tools
+     Learning the German Language 
