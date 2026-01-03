@@ -8,3 +8,4 @@
 #### 1st Weeks plan of action
      brain_stroming DevOps Tools Reviewing Tools
      Learning the German Language 
+     Reading 5pages 
